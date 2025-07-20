@@ -104,3 +104,4 @@ Open it in Power BI Desktop.
 Explore interactive filters to drill down into various customer segments.
 
 Use slicers to view churn behavior based on different combinations.
+This analysis has been completed under a guided video, Please check - https://github.com/EvahKanyua/Power-BI-Dataset
